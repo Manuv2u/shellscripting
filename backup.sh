@@ -1,0 +1,9 @@
+echo $0
+echo $1
+echo $2
+echo ${20}
+echo $#
+echo $*
+echo $@
+echo uhsr$
+echo $?
