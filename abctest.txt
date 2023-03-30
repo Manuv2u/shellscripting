@@ -1,0 +1,4 @@
+
+the username which you have typed is :  manu
+the password which you have typed is :  manu
+Tue Mar 28 03:32:30 UTC 2023
